@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionCalc", "MatrixCalc\FractionCalc.csproj", "{F3F37A09-ADBC-4BFE-A09C-B9D02A94EA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F37A09-ADBC-4BFE-A09C-B9D02A94EA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F37A09-ADBC-4BFE-A09C-B9D02A94EA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F37A09-ADBC-4BFE-A09C-B9D02A94EA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F37A09-ADBC-4BFE-A09C-B9D02A94EA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65EA6E8A-B251-461A-83DD-F4140D478C6C}
+	EndGlobalSection
+EndGlobal
